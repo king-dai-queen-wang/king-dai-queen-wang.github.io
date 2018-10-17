@@ -1,2 +1,2 @@
-1.   git clone https://github.com/viosey/hexo-theme-material.git themes/material  or git submodule init
+1.   git clone https://github.com/viosey/hexo-theme-material.git themes/material_david  or git submodule init
 2.   copy _config.yml to themes/material

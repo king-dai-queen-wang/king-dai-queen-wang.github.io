@@ -1,0 +1,3 @@
+[submodule "themes/material_david"]
+	path = themes/material_david
+	url = https://github.com/viosey/hexo-theme-material.git
