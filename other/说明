@@ -1,2 +1,15 @@
-1.   git clone https://github.com/viosey/hexo-theme-material.git themes/material_david  or git submodule init
-2.   copy _config.yml to themes/material
+1.set up
+    1.   git clone https://github.com/viosey/hexo-theme-material.git themes/material_david  or git submodule init
+    2.   copy _config.yml to themes/material
+    3. <% } else if(theme.comment.use.startsWith("disqus")) { %>
+      // to
+      <% } else if(theme.comment.use && theme.comment.use.startsWith("disqus")) { %>
+
+2.  ==material doc=====>https://material.viosey.com/docs/
+    1.npm i docsify-cli -g
+    2.git clone https://github.com/neko-dev/material-theme-docs.git
+
+    3.cd material-theme-docs
+    4.git checkout -b docsify origin/docsify
+    # docsify serve <path> [--open false] [--port 3000]
+    5.docsify serve docs
