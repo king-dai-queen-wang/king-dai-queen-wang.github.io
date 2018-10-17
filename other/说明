@@ -1,0 +1,2 @@
+1.   git clone https://github.com/viosey/hexo-theme-material.git themes/material
+2.   copy _config.yml to themes/material
