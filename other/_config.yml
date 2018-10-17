@@ -33,7 +33,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-  slogan: "Hi, nice to meet you"
+  slogan: "这是我的笔记"
   theme_color: "#0097A7"
   theme_sub_color: "#00838F"
   hyperlink_color: "#00838F"
@@ -236,8 +236,8 @@ sidebar:
 # If you want to use gitment or gitalk,you should get the client_id and client_secret from https://github.com/settings/applications/new
 # If you want to use valine,you should get the app_id and app_key from https://leancloud.cn ,more setting please see https://valine.js.org
 comment:
-  use:
-  shortname: # duoshuo or disqus shortname
+  use: disqus_click
+  shortname: daviddai
   changyan_appid:
   changyan_conf:
   changyan_thread_key_type: path
@@ -274,7 +274,7 @@ comment:
 # Available value:
 #     swiftype | google | local
 search:
-  use: google
+  use: baidu
   swiftype_key:
 
 # Analytics Systems
