@@ -236,12 +236,12 @@ sidebar:
 # If you want to use gitment or gitalk,you should get the client_id and client_secret from https://github.com/settings/applications/new
 # If you want to use valine,you should get the app_id and app_key from https://leancloud.cn ,more setting please see https://valine.js.org
 comment:
-  use: disqus_click
-  shortname: daviddai
+  use: livere
+  shortname:
   changyan_appid:
   changyan_conf:
-  changyan_thread_key_type: path
-  livere_data_uid:
+  changyan_thread_key_type:
+  livere_data_uid: MTAyMC80MDM0My8xNjg3MA
   gitment_repo:   # git repo of the hexo
   gitment_owner:  # git repo's owner
   gitment_client_id:  # github app client id
@@ -287,9 +287,9 @@ analytics:
 
 # Leancloud Views
 leancloud:
-  enable: false
-  app_id: #你的 app_id
-  app_key: #你的 app_key
+  enable: true
+  app_id: XEyjaw0cs4FJU1vubtw4Qmsg-gzGzoHsz
+  app_key: TSpNT8V3nWzGQsKWWMQBlRkE
   av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
 
 # Busuanzi 不蒜子 Views
