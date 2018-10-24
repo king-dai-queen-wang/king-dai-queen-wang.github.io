@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c9c6fe9-bba0-4787-b688-94581e463725" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/other/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/material_david" beforeDir="false" afterPath="$PROJECT_DIR$/themes/material_david" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/material_david/_config.template.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/material_david/_config.template.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/material_david/layout/_partial/footer_top.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/material_david/layout/_partial/footer_top.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/material_david/layout/_partial/footer-left.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/material_david/layout/_partial/footer-left.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,23 +52,51 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-885026215">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ejs" value="6" />
+          <entry key="yml" value="2" />
+          <entry key="说明" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="EJS" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ejs" value="3" />
+          <entry key="说明" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="EJS" value="3" />
+          <entry key="PLAIN_TEXT" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other/说明">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/material_david/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="295" column="9" lean-forward="true" selection-end-line="328" />
+            <state relative-caret-position="877">
+              <caret line="328" selection-start-line="328" selection-end-line="328" />
+              <folding>
+                <element signature="e#786#1005#0" />
+                <element signature="e#1028#1073#0" />
+                <element signature="e#1096#1124#0" />
+                <element signature="e#1147#1190#0" />
+                <element signature="e#1465#1564#0" />
+                <element signature="e#1584#1857#0" />
+                <element signature="e#2368#2535#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,27 +104,64 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/other/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="289" column="14" lean-forward="true" selection-start-line="289" selection-start-column="14" selection-end-line="289" selection-end-column="14" />
+            <state relative-caret-position="157">
+              <caret line="319" column="12" lean-forward="true" selection-end-line="328" />
+              <folding>
+                <element signature="e#786#1005#0" />
+                <element signature="e#1028#1073#0" />
+                <element signature="e#1096#1124#0" />
+                <element signature="e#1147#1190#0" />
+                <element signature="e#1465#1564#0" />
+                <element signature="e#1584#1857#0" />
+                <element signature="e#2368#2535#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_widget/comment/livere/enter.ejs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_widget/comment/livere/main.ejs">
+        <entry file="file://$PROJECT_DIR$/themes/material_david/layout/layout.ejs">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/material_david/_config.template.yml">
+        <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/footer-left.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="328" lean-forward="true" selection-start-line="328" selection-end-line="328" />
+            <state relative-caret-position="217">
+              <caret line="117" column="177" selection-start-line="117" selection-start-column="177" selection-end-line="117" selection-end-column="177" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/other/说明">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="18" column="176" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="176" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/footer-option.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/footer_top.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/Paradox-post-thumbnail.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/post-content.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -122,9 +184,12 @@
         <option value="$PROJECT_DIR$/themes/material_david/layout/_partial/livere.ejs" />
         <option value="$PROJECT_DIR$/themes/material_david/layout/post.ejs" />
         <option value="$PROJECT_DIR$/themes/material_david/layout/_widget/comment/livere/common.ejs" />
-        <option value="$PROJECT_DIR$/other/_config.yml" />
-        <option value="$PROJECT_DIR$/themes/material_david/_config.yml" />
         <option value="$PROJECT_DIR$/themes/material_david/_config.template.yml" />
+        <option value="$PROJECT_DIR$/other/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/material_david/layout/_partial/post-content.ejs" />
+        <option value="$PROJECT_DIR$/other/说明" />
+        <option value="$PROJECT_DIR$/themes/material_david/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/material_david/layout/_partial/footer-left.ejs" />
       </list>
     </option>
   </component>
@@ -141,7 +206,6 @@
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
       <path value="$PROJECT_DIR$/themes/landscape/package.json" />
-      <path value="$PROJECT_DIR$/themes/material/package.json" />
       <path value="$PROJECT_DIR$/themes/material_david/package.json" />
     </packageJsonPaths>
   </component>
@@ -157,7 +221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,31 +257,13 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="material_david" type="462c0819:PsiDirectoryNode" />
               <item name="layout" type="462c0819:PsiDirectoryNode" />
-              <item name="_widget" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="king-dai-queen-wang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="king-dai-queen-wang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="material_david" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-              <item name="_widget" type="462c0819:PsiDirectoryNode" />
-              <item name="comment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="king-dai-queen-wang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="king-dai-queen-wang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="material_david" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-              <item name="_widget" type="462c0819:PsiDirectoryNode" />
-              <item name="comment" type="462c0819:PsiDirectoryNode" />
-              <item name="livere" type="462c0819:PsiDirectoryNode" />
+              <item name="_partial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,19 +311,27 @@
       <option name="project" value="LOCAL" />
       <updated>1539784387232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1540350423143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540350423143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5926000" />
+    <option name="totallyTimeSpent" value="6523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24617738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -288,7 +341,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32792792" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -327,37 +380,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/other/说明">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_widget/comment/livere/enter.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_widget/comment/livere/main.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/_config.template.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="328" lean-forward="true" selection-start-line="328" selection-end-line="328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" lean-forward="true" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/sidebar-footer.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/blog_info.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/footer-option.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/footer_top.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/Paradox-post-thumbnail.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/post-content.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/other/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="289" column="14" lean-forward="true" selection-start-line="289" selection-start-column="14" selection-end-line="289" selection-end-column="14" />
+        <state relative-caret-position="157">
+          <caret line="319" column="12" lean-forward="true" selection-end-line="328" />
+          <folding>
+            <element signature="e#786#1005#0" />
+            <element signature="e#1028#1073#0" />
+            <element signature="e#1096#1124#0" />
+            <element signature="e#1147#1190#0" />
+            <element signature="e#1465#1564#0" />
+            <element signature="e#1584#1857#0" />
+            <element signature="e#2368#2535#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/material_david/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="295" column="9" lean-forward="true" selection-end-line="328" />
+        <state relative-caret-position="877">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+          <folding>
+            <element signature="e#786#1005#0" />
+            <element signature="e#1028#1073#0" />
+            <element signature="e#1096#1124#0" />
+            <element signature="e#1147#1190#0" />
+            <element signature="e#1465#1564#0" />
+            <element signature="e#1584#1857#0" />
+            <element signature="e#2368#2535#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/material_david/_config.template.yml">
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/layout.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/说明">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="328" lean-forward="true" selection-start-line="328" selection-end-line="328" />
+        <state relative-caret-position="166">
+          <caret line="18" column="176" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material_david/layout/_partial/footer-left.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="117" column="177" selection-start-line="117" selection-start-column="177" selection-end-line="117" selection-end-column="177" />
         </state>
       </provider>
     </entry>
