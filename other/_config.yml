@@ -71,7 +71,7 @@ background:
 # Images Settings
 img:
   logo: "/img/logo.png"
-  avatar: "/img/avatar.png"
+  avatar: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1540372880749&di=7ed24c05971d46406afb8766db28f775&imgtype=0&src=http%3A%2F%2Fwww.07073.com%2Fuploads%2F151207%2F17598486_164217_1.jpg"
   daily_pic: "/img/daily_pic.png"
   sidebar_header: "/img/sidebar_header.png"
   random_thumbnail: "/img/random/material-"
@@ -132,7 +132,7 @@ prettify:
 #                    - If `includeDefaultColors` is true, this will append colors to the color pool
 #                    - If `includeDefaultColors` is false, this will instead default color pool
 hanabi:
-  enable: false
+  enable: true
   line_number: true
   includeDefaultColors: true
   customColors:
@@ -184,12 +184,12 @@ sns:
 
 # SNS Share Switch
 sns_share:
-  twitter: true
-  facebook: true
-  googleplus: true
-  weibo: true
-  linkedin: false
-  qq: false
+  twitter: false
+  facebook: false
+  googleplus: false
+  weibo: false
+  linkedin: true
+  qq: true
   telegram: false
 
 # Sidebar Customize
