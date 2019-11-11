@@ -1,5 +1,5 @@
 1.set up
-    1.   git clone https://github.com/viosey/hexo-theme-material.git themes/material_david  or git submodule init
+    1.   git clone https://github.com/king-dai-queen-wang/hexo-theme-3-hexo.git themes/david  or git submodule init
     2.   copy _config.yml to themes/material
     3. <% } else if(theme.comment.use.startsWith("disqus")) { %>
       // to

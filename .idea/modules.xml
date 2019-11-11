@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/king-dai-queen-wang.github.io.iml" filepath="$PROJECT_DIR$/.idea/king-dai-queen-wang.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hexo.iml" filepath="$PROJECT_DIR$/.idea/hexo.iml" />
     </modules>
   </component>
 </project>
