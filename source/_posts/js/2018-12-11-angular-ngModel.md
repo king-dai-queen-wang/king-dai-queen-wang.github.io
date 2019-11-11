@@ -2,6 +2,7 @@
 title: angular_ngModel
 date: 2018-12-11 11:37:50
 tags:
+categories: JS
 ---
 ## ngModel
 
@@ -21,4 +22,3 @@ tags:
         SelectControlValueAccessor - 用于 select 选择控件
         
         CheckboxControlValueAccessor - 用于 checkbox 复选控件
-    
