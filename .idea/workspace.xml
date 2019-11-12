@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d2fab0b-667b-4495-ae2f-6c9495206ebc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/说明" beforeDir="false" afterPath="$PROJECT_DIR$/other/说明" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/david" beforeDir="false" afterPath="$PROJECT_DIR$/themes/david" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
       <updated>1573437610912</updated>
       <workItem from="1573437612210" duration="3336000" />
       <workItem from="1573450698233" duration="9040000" />
-      <workItem from="1573528227467" duration="2391000" />
+      <workItem from="1573528227467" duration="3678000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1573451499739</created>
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573463352803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1573530671017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573530671017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
