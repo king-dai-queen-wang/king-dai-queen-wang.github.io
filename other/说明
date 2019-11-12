@@ -1,20 +1,7 @@
 1.set up
     1.   git clone https://github.com/king-dai-queen-wang/hexo-theme-3-hexo.git themes/david  or git submodule init
-    2.   copy _config.yml to themes/material
-    3. <% } else if(theme.comment.use.startsWith("disqus")) { %>
-      // to
-      <% } else if(theme.comment.use && theme.comment.use.startsWith("disqus")) { %>
 
-2.  ==material doc=====>https://material.viosey.com/docs/
-    1.npm i docsify-cli -g
-    2.git clone https://github.com/neko-dev/material-theme-docs.git
-
-    3.cd material-theme-docs
-    4.git checkout -b docsify origin/docsify
-    # docsify serve <path> [--open false] [--port 3000]
-    5.docsify serve docs
-
-
+2.https://yelog.org/
 
 3. <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=451536969&auto=1&height=32"></iframe>
 

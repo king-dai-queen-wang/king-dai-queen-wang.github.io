@@ -3,36 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2d2fab0b-667b-4495-ae2f-6c9495206ebc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/align-content.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/align-content.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/align-items.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/align-items.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/align-self.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/align-self.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/flex-direction.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/flex-direction.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/flex-grow.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/flex-grow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/flex-shrink.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/flex-shrink.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/flex-wrap-nowrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/flex-wrap-nowrap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/flex-wrap-reverse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/flex-wrap-reverse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/flex-wrap-wrap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/flex-wrap-wrap.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/flex-wrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/flex-wrap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/flexbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/flexbox.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/justify-content.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/justify-content.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-02-flexbox/order.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox/order.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-11-23-h5新增加的知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/html/2018-11-23-h5新增加的知识.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-06-canvas.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-06-canvas.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-10-angular.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-10-angular.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-10-angular/angular-component.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-10-angular/angular-component.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-10-angular/angular-ioc-component.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-10-angular/angular-ioc-component.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-10-angular/angular-ioc.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-10-angular/angular-ioc.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-10-angular/angular-module.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-10-angular/angular-module.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-10-angular/angular-service.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-10-angular/angular-service.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-10-angular/angular-structure.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-10-angular/angular-structure.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-11-angular-ngModel.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/2018-12-11-angular-ngModel.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/js.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/js/js.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/sass.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/sass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/css/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/david" beforeDir="false" afterPath="$PROJECT_DIR$/themes/david" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/说明" beforeDir="false" afterPath="$PROJECT_DIR$/other/说明" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1573437610912</updated>
       <workItem from="1573437612210" duration="3336000" />
-      <workItem from="1573450698233" duration="8672000" />
+      <workItem from="1573450698233" duration="9040000" />
+      <workItem from="1573528227467" duration="2391000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1573451499739</created>
@@ -106,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573459130378</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1573463352803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573463352803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
