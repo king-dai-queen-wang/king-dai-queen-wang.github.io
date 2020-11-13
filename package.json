@@ -6,11 +6,12 @@
     "version": "5.2.0"
   },
   "scripts": {
-    "start": "hexo server"
+    "start": "hexo server",
+    "build": "hexo clean & hexo generate",
+    "deploy": "hexo deploy"
   },
   "dependencies": {
     "hexo": "^5.0.0",
-    "hexo-asset-image": "^1.0.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-category": "^0.1.3",
