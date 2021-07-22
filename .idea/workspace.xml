@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d2fab0b-667b-4495-ae2f-6c9495206ebc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2d2fab0b-667b-4495-ae2f-6c9495206ebc" name="Default Changelist" comment="hexo update">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css/flexbox/2018-11-02-flexbox.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/david" beforeDir="false" afterPath="$PROJECT_DIR$/themes/david" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/typescript/ts-Decorator.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/typescript/ts-Decorator.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,35 +22,51 @@
   </component>
   <component name="ProjectId" id="1TRzHlWL7yRvy6L0tlVpBKJhWll" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/material_david" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\project\hexo\source\_posts\css\flexbox" />
-      <recent name="C:\project\hexo\source\_posts\css" />
-      <recent name="C:\project\hexo\source\_posts\js" />
-      <recent name="C:\project\hexo\source\_posts\html" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\project\hexo\themes\material_david" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\hexo\source\_posts\css" />
+      <recent name="C:\project\hexo\source\_posts\html" />
+      <recent name="C:\project\hexo\source\_posts\brower" />
+      <recent name="C:\project\hexo\source\_posts\css\flexbox" />
+      <recent name="C:\project\hexo\source\_posts\js" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="npm.start" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,7 +79,31 @@
       <updated>1573437610912</updated>
       <workItem from="1573437612210" duration="3336000" />
       <workItem from="1573450698233" duration="9040000" />
-      <workItem from="1573528227467" duration="3678000" />
+      <workItem from="1573528227467" duration="3896000" />
+      <workItem from="1585021017980" duration="5010000" />
+      <workItem from="1585106936317" duration="8429000" />
+      <workItem from="1585186909658" duration="9386000" />
+      <workItem from="1585212786955" duration="6000" />
+      <workItem from="1603356504671" duration="917000" />
+      <workItem from="1605147807305" duration="8013000" />
+      <workItem from="1605175929195" duration="7000" />
+      <workItem from="1605236002123" duration="6786000" />
+      <workItem from="1605418818939" duration="1229000" />
+      <workItem from="1605763955228" duration="598000" />
+      <workItem from="1605772502410" duration="1292000" />
+      <workItem from="1605836985220" duration="1198000" />
+      <workItem from="1606097211747" duration="1444000" />
+      <workItem from="1606123244576" duration="352000" />
+      <workItem from="1606184304970" duration="864000" />
+      <workItem from="1611036980989" duration="1211000" />
+      <workItem from="1612416092607" duration="1637000" />
+      <workItem from="1612490783208" duration="25000" />
+      <workItem from="1612490849926" duration="9000" />
+      <workItem from="1615878373886" duration="1745000" />
+      <workItem from="1616739061282" duration="1928000" />
+      <workItem from="1619421650464" duration="203000" />
+      <workItem from="1619501419679" duration="586000" />
+      <workItem from="1626948588023" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1573451499739</created>
@@ -94,11 +133,46 @@
       <option name="project" value="LOCAL" />
       <updated>1573530671017</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1573537060097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573537060097</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hexo update">
+      <created>1605151773365</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605151773365</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hexo update">
+      <created>1605246973152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605246973152</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add cors&#10;add promise">
+      <created>1606123311328</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606123311328</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ts 装饰器">
+      <created>1615878841480</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615878841480</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -115,16 +189,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="hexo update" />
+    <MESSAGE value="add cors&#10;add promise" />
+    <MESSAGE value="ts 装饰器" />
+    <option name="LAST_COMMIT_MESSAGE" value="ts 装饰器" />
   </component>
 </project>

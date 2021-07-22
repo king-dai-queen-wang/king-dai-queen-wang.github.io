@@ -178,12 +178,13 @@ class HttpClient{
     }
 }
 
-运行结果：
-------------------------------
-log method
+// 运行结果：
+// ------------------------------
+// log method
 
-**对于静态成员来说是类的构造函数，对于实例成员是类的原型对象，。**
-Object{
+// **对于静态成员来说是类的构造函数，对于实例成员是类的原型对象，。**
+/*
+Object {
 	getData: f()
 	constructor: f HttpClient
 	__proto__: Object
@@ -204,7 +205,8 @@ Object{
 
 const aa = new HttpClient();
 aa.run(); // this is run method
-console.log(aa.apiUrl); // xxx
+console.log(aa.apiUrl); // xxx*/
+
 ```
 
 4.2  方法装饰器（2）
@@ -220,7 +222,7 @@ function Get(param: any) {
 		desc.value = function(...args: any[]) {
 			args = args.map(v => String(v));
 
-			console.log(args)；
+			console.log(args);
 
 			// 如果要替换原来被修饰的方法，则不用写下面这句
 			oldMethod.apply(this, args);
@@ -244,7 +246,7 @@ class HttpClient{
 
 const http = new HttpClient();
 
-http.getData('hello' , 'dwww' ， 123);
+http.getData('hello' , 'dwww' , 123);
 // 'hello' 'dwww' '123' '我是getData方法'
 ```
 
@@ -259,7 +261,7 @@ http.getData('hello' , 'dwww' ， 123);
 ```tsx
 function logParams(param: any) {
 	return function(target: any, methodName: string, paramIndex: number) {
-		console.log(param， target, methodName, paramIndex)
+		console.log(param, target, methodName, paramIndex)
 	}
 }
 
